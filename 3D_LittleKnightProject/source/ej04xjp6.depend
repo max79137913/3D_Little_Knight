@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1358229338 source:z:\dropbox\ebook\ej04xjp6\leadingrole.cpp
+	"leadingRole.h"
+	<math.h>
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+	<vector>
+	"DemonRole.h"
+
+1358228125 z:\dropbox\ebook\ej04xjp6\leadingrole.h
+	"ObjectInGame.h"
+	"library/glm.h"
+	"library/math3d.h"
+
+1357915788 z:\dropbox\ebook\ej04xjp6\objectingame.h
+	<string>
+	"library/gltools.h"
+	"library/glframe.h"
+
+1317648088 z:\dropbox\ebook\ej04xjp6\library\gltools.h
+	<windows.h>
+	"glee.h"
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<Carbon/Carbon.h>
+	"glee.h"
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<Glut/glut.h>
+	<math.h>
+
+1225077308 z:\dropbox\ebook\ej04xjp6\library\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1225077308 z:\dropbox\ebook\ej04xjp6\library\glframe.h
+	"math3d.h"
+
+1225077826 z:\dropbox\ebook\ej04xjp6\library\math3d.h
+	<math.h>
+	<memory.h>
+
+1357971241 z:\dropbox\ebook\ej04xjp6\library\glm.h
+	<gl\gl.h>
+	<GL/glut.h>
+
+1225077308 source:z:\dropbox\ebook\ej04xjp6\library\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1351563780 source:z:\dropbox\ebook\ej04xjp6\library\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1287371936 source:z:\dropbox\ebook\ej04xjp6\library\gltools.cpp
+	"gltools.h"
+	"math3d.h"
+	<stdio.h>
+	<assert.h>
+	"wglext.h"
+
+1225077310 z:\dropbox\ebook\ej04xjp6\library\wglext.h
+	<windows.h>
+
+1225077310 source:z:\dropbox\ebook\ej04xjp6\library\math3d.cpp
+	<math.h>
+	"math3d.h"
+
+1225077310 source:z:\dropbox\ebook\ej04xjp6\library\trianglemesh.cpp
+	"TriangleMesh.h"
+
+1225077310 z:\dropbox\ebook\ej04xjp6\library\trianglemesh.h
+	"gltools.h"
+	"math3d.h"
+
+1225077310 source:z:\dropbox\ebook\ej04xjp6\library\vbomesh.cpp
+	"VBOMesh.h"
+
+1225077310 z:\dropbox\ebook\ej04xjp6\library\vbomesh.h
+	"gltools.h"
+	"math3d.h"
+
+1358235903 source:z:\dropbox\ebook\ej04xjp6\main.cpp
+	"library/gltools.h"
+	"library/glframe.h"
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	"library/glm.h"
+	"textureController.h"
+	"collisionController.h"
+	"ObjectInGame.h"
+	"leadingRole.h"
+	"DemonRole.h"
+
+1358169501 z:\dropbox\ebook\ej04xjp6\texturecontroller.h
+	<map>
+	<string>
+	"library/bmpImageProcess.h"
+
+1357971259 z:\dropbox\ebook\ej04xjp6\library\bmpimageprocess.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1358221230 z:\dropbox\ebook\ej04xjp6\collisioncontroller.h
+	"ObjectInGame.h"
+	"library/math3d.h"
+	<algorithm>
+
+1357915861 source:z:\dropbox\ebook\ej04xjp6\objectingame.cpp
+	"ObjectInGame.h"
+
+1357971519 source:z:\dropbox\ebook\ej04xjp6\texturecontroller.cpp
+
+1358232136 z:\dropbox\ebook\ej04xjp6\demonrole.h
+	"ObjectInGame.h"
+	"library/glm.h"
+	"library/math3d.h"
+
+1358235903 source:z:\dropbox\ebook\ej04xjp6\demonrole.cpp
+	"DemonRole.h"
+	"LeadingRole.h"
+	<math.h>
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+	<vector>
+
+1358178133 z:\dropbox\ebook\ej04xjp6\demonrole.cpp
+	"DemonRole.h"
+	<math.h>
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+	<vector>
+
+1358942276 source:c:\users\acerhome\desktop\ej04xjp6\demonrole.cpp
+	"DemonRole.h"
+	"LeadingRole.h"
+	<math.h>
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+	<vector>
+
+1358923138 c:\users\acerhome\desktop\ej04xjp6\demonrole.h
+	"ObjectInGame.h"
+	"library/glm.h"
+	"library/math3d.h"
+
+1357915788 c:\users\acerhome\desktop\ej04xjp6\objectingame.h
+	<string>
+	"library/gltools.h"
+	"library/glframe.h"
+
+1317648088 c:\users\acerhome\desktop\ej04xjp6\library\gltools.h
+	<windows.h>
+	"glee.h"
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<Carbon/Carbon.h>
+	"glee.h"
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<Glut/glut.h>
+	<math.h>
+
+1225077308 c:\users\acerhome\desktop\ej04xjp6\library\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1225077308 c:\users\acerhome\desktop\ej04xjp6\library\glframe.h
+	"math3d.h"
+
+1225077826 c:\users\acerhome\desktop\ej04xjp6\library\math3d.h
+	<math.h>
+	<memory.h>
+
+1357971241 c:\users\acerhome\desktop\ej04xjp6\library\glm.h
+	<gl\gl.h>
+	<GL/glut.h>
+
+1358923721 c:\users\acerhome\desktop\ej04xjp6\leadingrole.h
+	"ObjectInGame.h"
+	"library/glm.h"
+	"library/math3d.h"
+
+1357915861 source:c:\users\acerhome\desktop\ej04xjp6\objectingame.cpp
+	"ObjectInGame.h"
+
+1358933754 source:c:\users\acerhome\desktop\ej04xjp6\leadingrole.cpp
+	<al\al.h>
+	"al\alut.h"
+	"leadingRole.h"
+	<math.h>
+	<stdio.h>
+	<map>
+	<string>
+	<iostream>
+	<vector>
+	"DemonRole.h"
+
+1225077308 source:c:\users\acerhome\desktop\ej04xjp6\library\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1225077310 source:c:\users\acerhome\desktop\ej04xjp6\library\trianglemesh.cpp
+	"TriangleMesh.h"
+
+1225077310 c:\users\acerhome\desktop\ej04xjp6\library\trianglemesh.h
+	"gltools.h"
+	"math3d.h"
+
+1225077310 source:c:\users\acerhome\desktop\ej04xjp6\library\vbomesh.cpp
+	"VBOMesh.h"
+
+1225077310 c:\users\acerhome\desktop\ej04xjp6\library\vbomesh.h
+	"gltools.h"
+	"math3d.h"
+
+1351563780 source:c:\users\acerhome\desktop\ej04xjp6\library\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1287371936 source:c:\users\acerhome\desktop\ej04xjp6\library\gltools.cpp
+	"gltools.h"
+	"math3d.h"
+	<stdio.h>
+	<assert.h>
+	"wglext.h"
+
+1225077310 c:\users\acerhome\desktop\ej04xjp6\library\wglext.h
+	<windows.h>
+
+1225077310 source:c:\users\acerhome\desktop\ej04xjp6\library\math3d.cpp
+	<math.h>
+	"math3d.h"
+
+1357971519 source:c:\users\acerhome\desktop\ej04xjp6\texturecontroller.cpp
+
+1358942032 source:c:\users\acerhome\desktop\ej04xjp6\main.cpp
+	<al\al.h>
+	"al\alut.h"
+	"library/gltools.h"
+	"library/glframe.h"
+	<math.h>
+	<time.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	"library/glm.h"
+	"textureController.h"
+	"collisionController.h"
+	"modelController.h"
+	"ObjectInGame.h"
+	"leadingRole.h"
+	"DemonRole.h"
+
+1358941426 c:\users\acerhome\desktop\ej04xjp6\texturecontroller.h
+	<map>
+	<string>
+	"library/bmpImageProcess.h"
+
+1357971259 c:\users\acerhome\desktop\ej04xjp6\library\bmpimageprocess.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1358221230 c:\users\acerhome\desktop\ej04xjp6\collisioncontroller.h
+	"ObjectInGame.h"
+	"library/math3d.h"
+	<algorithm>
+
+1358763373 c:\users\acerhome\desktop\ej04xjp6\modelcontroller.h
+	<map>
+	<string>
+	"library/glm.h"
+	"library/math3d.h"
+
+1358926122 c:\users\acerhome\desktop\ej04xjp6\al\alut.h
+	<alc.h>
+	<al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
